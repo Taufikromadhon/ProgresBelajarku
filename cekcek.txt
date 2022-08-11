@@ -1,9 +1,7 @@
 tes123
 
-Rumus Luas
+Rumus Luas:
 
 Persegi = Sisi * Sisi ;
-
-Rumus Luas:
 
 luas segitiga = a * t / 2;
